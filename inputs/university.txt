@@ -1,0 +1,10 @@
+1,Ege Üniversitesi Bilgisayar Mühendisliği,300,5
+2,Dokuz Eylül Üniversitesi Tıp Fakültesi,290,3
+3,Mugla Sıtkı Koçman Üniversitesi Bilgisayar Mühendisliği,280,4
+4,Manisa Celal Bayar Üniversitesi Bilgisayar Mühendisliği,500,2
+5,Bursa Teknik Üniversitesi Bilgisayar Mühendisliği,441,6
+6,İzmir Ekonomi Üniversitesi Tıp Fakültesi,495,6
+7,Kocaeli Üniversitesi Bilgisayar Mühendisliği,490,4
+8,Karadeniz Teknik Üniversitesi Bilgisayar Mühendisliği,434,5
+9,Ankara Üniversitesi Diş Hekimliği Fakültesi,480,2
+10,Hacettepe Üniversitesi Tıp Fakültesi,500,2

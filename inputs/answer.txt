@@ -1,0 +1,10 @@
+823582 B dbbaaaeddaddddec*eabbebcbeaddcebcdececd* 8 1 
+124823 B beabdba**abdcaedaeabbaaaccbbecac*bbaeadd 1 5
+285823 B bc*c**bcb*beaabdcb*dcbcde*ecac*baeb*cbcc 6 9 
+123572 A cbadeabcdebbcdeaecdeabcdeabcdea********a 5 8 
+235823 A cbadeabcdebbcdeaecdeabc****cdeabcdecbcda 7 8 
+124876 B cbadeabcdebbcdeaecdeabcdeabcdea********* 5 7 
+172371 A cbadeabcde**aecdeabcdeabcdeabc***decbcda 4 9 
+323852 A cbadeabcdebbcde*****abcdeabcdeabcdecbcda 4 3 
+223548 A cbadeabcdebb********abcdeabcdeabcdecbcda 4 9 
+117987 B bdaa*daaeabdbdceeaabeecca*ecbcebaababaed 2 1 

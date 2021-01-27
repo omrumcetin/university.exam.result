@@ -1,0 +1,10 @@
+823582, Ertunga Porsuk, B, 6, 33, 1, -2.25, -33.75, Karadeniz Teknik Üniversitesi Bilgisayar Mühendisliği, Ege Üniversitesi Bilgisayar Mühendisliği
+124823, Ceren Kapucu, B, 10, 27, 3, 3.25, 48.75, Ege Üniversitesi Bilgisayar Mühendisliği, Bursa Teknik Üniversitesi Bilgisayar Mühendisliği
+285823, Uğur Ünal, B, 6, 26, 8, -0.5, -7.5, İzmir Ekonomi Üniversitesi Tıp Fakültesi, Ankara Üniversitesi Diş Hekimliği Fakültesi
+123572, Oğulcan Atak, A, 31, 1, 8, 30.75, 461.25, Bursa Teknik Üniversitesi Bilgisayar Mühendisliği, Karadeniz Teknik Üniversitesi Bilgisayar Mühendisliği
+235823, Ahmet Çetinkaya, A, 35, 1, 4, 34.75, 521.25, Kocaeli Üniversitesi Bilgisayar Mühendisliği, Karadeniz Teknik Üniversitesi Bilgisayar Mühendisliği
+124876, Ayse Yılmaz, B, 2, 30, 8, -5.5, -82.5, Bursa Teknik Üniversitesi Bilgisayar Mühendisliği, Kocaeli Üniversitesi Bilgisayar Mühendisliği
+172371, Erdem Koçullu, A, 17, 18, 5, 12.5, 187.5, Manisa Celal Bayar Üniversitesi Bilgisayar Mühendisliği, Ankara Üniversitesi Diş Hekimliği Fakültesi
+323852, Mehmet Kaplan, A, 34, 1, 5, 33.75, 506.25, Manisa Celal Bayar Üniversitesi Bilgisayar Mühendisliği, Mugla Sıtkı Koçman Üniversitesi Bilgisayar Mühendisliği
+223548, Ayberk Güven, A, 31, 1, 8, 30.75, 461.25, Manisa Celal Bayar Üniversitesi Bilgisayar Mühendisliği, Ankara Üniversitesi Diş Hekimliği Fakültesi
+117987, İbrahim Kaptan, B, 7, 31, 2, -0.75, -11.25, Dokuz Eylül Üniversitesi Tıp Fakültesi, Ege Üniversitesi Bilgisayar Mühendisliği

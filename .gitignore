@@ -17,6 +17,7 @@ eggs/
 lib/
 lib64/
 parts/
+Scripts/
 sdist/
 var/
 wheels/
@@ -25,6 +26,7 @@ share/python-wheels/
 *.egg-info/
 .installed.cfg
 *.egg
+*.workspace
 MANIFEST
 
 # PyInstaller
@@ -127,3 +129,5 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+*.json
+*.code-workspace
