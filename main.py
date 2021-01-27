@@ -1,7 +1,7 @@
 import os
 class Student:
-    def __init__(self,firstName,lastName,studentID):
-        self.firstName=firstName
+    def __init__(self,first_name,lastName,studentID):
+        self.first_name=first_name
         self.lastName=lastName
         self.studentId(studentID)
     
@@ -13,6 +13,8 @@ class Student:
                 self.__studentID=studentID
         else:
             print('ID must be digits.')
+    def set_name(self, first_name):
+        self.first_name = first_name
 
     def getName(self):
         return self.firstName
