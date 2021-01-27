@@ -12,7 +12,7 @@ class Student:
             else:
                 self.__studentID=studentID
         else:
-            print('ID must be digits. Please try again.')
+            print('ID must be digits.')
 
     def getName(self):
         return self.firstName
